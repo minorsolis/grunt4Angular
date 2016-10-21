@@ -1,0 +1,14 @@
+{
+	"scriptlinkerOpenTag": "<!--app.applicationFilesStart-->",
+	"scriptlinkerCloseTag": "<!--app.applicationFilesEnd-->",
+	"scriptlinkerBaseHref": "app/",
+
+	"applicationFilesProd":[
+					"application/js/application.min.js"
+				],
+
+	"applicationFiles": [
+		
+					"bower_components/jquery/jquery.min.js",
+				]
+}
